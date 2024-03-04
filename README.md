@@ -1,4 +1,6 @@
-# device-shop-master (device-shop-master)
+# device-shop-master
+
+site url : https://devices-shop-master.netlify.app
 
 device-shop-master
 
